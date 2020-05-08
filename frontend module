@@ -1,0 +1,100 @@
+<html>
+ <head>
+     <title>Frontend Module</title>
+ </head>
+ <body>
+     <div class="container">
+     <header>
+         <img src="logo.svg" alt="logo">
+         <nav>
+             <a href="#" class="hide-desktop"><img src="ham.svg" alt="menu"></a>
+             <ul class="show-dekstop hide-mobile">
+                 <li id="exit" ><img src="exit.svg" alt ="exit"></li>
+                 <li><a href="#">Home</a></li>
+                 <li><a href="#">Services</a></li>
+                 <li><a href="#">About</a></li>
+                 <li><a href="#">Contact</a></li>
+             </ul>
+         </nav>
+
+     </header>
+     <section>
+         <img src="server.svg" alt="server graphic">
+         <h1>Web Hosting for Modern era.
+         </h1>
+         <p>Go serverless and only pay for what you consume.</p>
+
+     </section>
+     </div>
+     <div class="blue-container">
+         <div class="conatiner">
+             <ul>
+                 <li>
+                     <img src="icon-1.svg" alt="icon1">
+                     <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum odio omnis officiis culpa nemo optio maiores voluptatibus consectetur accusantium corrupti quo nostrum, dolore sequi, beatae laudantium aspernatur quas ea? Obcaecati.
+                     </p>
+                 </li>
+                 <li>
+                    <img src="icon-2.svg" alt="icon2">
+                    <p>
+                       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum odio omnis officiis culpa nemo optio maiores voluptatibus consectetur accusantium corrupti quo nostrum, dolore sequi, beatae laudantium aspernatur quas ea? Obcaecati.
+                    </p>
+                </li>
+                <li>
+                    <img src="icon-3.svg" alt="icon3">
+                    <p>
+                       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum odio omnis officiis culpa nemo optio maiores voluptatibus consectetur accusantium corrupti quo nostrum, dolore sequi, beatae laudantium aspernatur quas ea? Obcaecati.
+                    </p>
+                </li>
+             </ul>
+         </div>
+     </div>
+     <div class="grey container">
+         <div class="conatiner">
+             <ul>
+                 <li>
+                     <figure>
+                         <img src="user1.png" alt="user1">
+                         <blockquote>
+                             Go serverless and only pay for what you consume.
+                         </blockquote>
+                         <figcaption>-Jane Doe</figcaption>
+                     </figure>
+                 </li>
+                 <li>
+                    <figure>
+                        <img src="user2.png" alt="user2">
+                        <blockquote>
+                            Go serverless and only pay for what you consume.
+                        </blockquote>
+                        <figcaption>-John Doe</figcaption>
+                    </figure>
+                </li>
+             </ul>
+         </div>
+     </div>
+     <div class="conatiner">
+         <h2>Start your free trial now</h2>
+         <a href="#" class="cta">Get started</a>
+     </div>
+     <footer>
+         <div class="footer-container">
+             <div class="conatiner">
+                 <a href="#">
+                     <img src="logo-white.svg" alt="logo">
+                     <p class="address">Melrose Palace,90210 <br>USA</p>
+                     <ul class="footer-links">
+                         <li>
+                             <a href="#">Terms of services</a>
+                         </li>
+                         <li>
+                            <a href="#">Privacy Policy</a>
+                        </li>
+                     </ul>
+                 </a>
+             </div>
+         </div>
+     </footer>
+ </body>
+</html>
